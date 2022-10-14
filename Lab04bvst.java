@@ -72,13 +72,10 @@ g.fillRect(220,225, 10, 30);
 g.fillRect(200,245, 20, 10);
 
         // DRAW PACMEN FLOWER
-        // DRAW PACMEN FLOWER
 g.fillArc(310,200,51,51,45,270);
 g.fillArc(275,165,51,51,135,270);
 g.fillArc(240,200,51,51,225,270);
 g.fillArc(275,235,51,51,-45,270);
-
-
 
 
     }
